@@ -1,6 +1,3 @@
-# notester32-s-bone-tool
-a addon/tool who manipulate head/tails positions in blender
-
 # 🦴 Notester32’s Bone Tool (Blender 3.x)
 
 **Notester32’s Bone Tool** is a Blender addon that helps fix and adjust bones in edit mode. It is particularly useful for repairing common issues when importing FBX or other formats, where bone positions may not align correctly.
